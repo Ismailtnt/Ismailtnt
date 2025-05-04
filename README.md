@@ -1,6 +1,6 @@
 ## About me 
 
-Hi, I'm Ismail, a computer science engineering student at EMI in Morocco. I am passionate about artificial intelligence and data analysis, and I aspire to build innovative solutions in the tech industry.
+Hi, I'm Ismail, a computer science engineering student in Morocco. I am passionate about artificial intelligence and data analysis, and I aspire to build innovative solutions in the tech industry.
 <details>
 <summary>My top languages</summary>
 
